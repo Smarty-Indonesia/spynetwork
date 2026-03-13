@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^privacy-policy/?$ /privacy-policy/privacy-policy.pdf

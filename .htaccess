@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteRule ^/?$ /index.php
+RewriteRule ^help/?$ /help.php
+RewriteRule ^privacy-policy/?$ /privacy-policy.php
+RewriteRule ^roadmap/?$ /roadmap.php
+
+ErrorDocument 404 /404.php
+
+#Far Future Expires Header
+# <FilesMatch "\.(gif|png|jpg|svg|js|css|scss|pdf)$">
+#    ExpiresActive On
+#    ExpiresDefault "modification"
+# </FilesMatch>
