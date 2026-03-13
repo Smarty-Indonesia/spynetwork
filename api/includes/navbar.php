@@ -2,7 +2,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="/">
-            <img src="images/favicon.png" alt="" width="60px">
+            <img src="../../images/favicon.png" alt="" width="60px">
             <span>
               SPYNetwork
             </span>
@@ -25,22 +25,22 @@
                   <a class="nav-link" href="https://netfi.spynetwork.io" target="_blank"> NETFI </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="roadmap">Roadmap</a>
+                  <a class="nav-link" href="/roadmap">Roadmap</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="whitepaper">Whitepaper</a>
+                  <a class="nav-link" href="/whitepaper">Whitepaper</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="help">Help</a>
+                  <a class="nav-link" href="/help">Help</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="/ispyn.co.id/" target="_blank">I-Spyn</a>
+                  <a class="nav-link" href="https://ispyn.co.id/" target="_blank">I-Spyn</a>
                 </li>
               </ul>
             </div>
             <div class="quote_btn-container ">
               <!-- <a href="">
-                <img src="images/call.png" alt="">
+                <img src="../../images/call.png" alt="">
                 <span>
                   Call : + 62 1234567890
                 </span>
