@@ -18,7 +18,7 @@ include "includes/head.php";
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="../images/404.png" alt="">
+            <img src="../assets/images/404.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
