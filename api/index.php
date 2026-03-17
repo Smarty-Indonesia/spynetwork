@@ -24,13 +24,24 @@ include "includes/head.php";
                       one of the prestigious projects in 2023, with a real project based on network marketing: I-Spyn
                     </p>
                     <div class="btn-box">
-                      <a href="mailto:support@spynetwork.io" target="_blank" class="btn-1">
-                        Contact us
+                      <a href="#" target="_blank" class="btn-1" onclick="CopyToClipboard()">
+                        Copy Smart Contract
                       </a>
-                      <a href="../assets/documents/introducing_spyn.pdf" target="_blank" class="btn-2">
-                        Documentation
+                      <a class="btn-2" id="smart-contract">
+                        0x3F76517F7aB600fd4879F0Ee735051Bb9691D5BB
                       </a>
                     </div>
+                    <script>
+                      function CopyToClipboard()
+                        {
+                        var r = document.createRange();
+                        r.selectNode(document.getElementById("smart-contract"));
+                        window.getSelection().removeAllRanges();
+                        window.getSelection().addRange(r);
+                        document.execCommand('copy');
+                        window.getSelection().removeAllRanges();
+                        }
+                    </script>
                   </div>
                 </div>
                 <div class="col-md-6">
