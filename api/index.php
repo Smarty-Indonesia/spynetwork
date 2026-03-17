@@ -27,7 +27,7 @@ include "includes/head.php";
                       <a href="#" target="_blank" class="btn-1" onclick="CopyToClipboard()">
                         Copy Smart Contract
                       </a>
-                      <a class="btn-2 word-wrap" id="smart-contract">
+                      <a class="word-wrap" id="smart-contract" style="font-size: 10px">
                         0x3F76517F7aB600fd4879F0Ee735051Bb9691D5BB
                       </a>
                     </div>
