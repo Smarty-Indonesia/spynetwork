@@ -34,7 +34,7 @@
                   <a class="nav-link" href="/help">Help</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="https://ispyn.co.id/" target="_blank">I-Spyn</a>
+                  <a class="nav-link" href="https://ispyn.vercel.app/" target="_blank">I-Spyn</a>
                 </li>
               </ul>
             </div>
