@@ -1,22 +1,6 @@
 <?php
 $pagetitle="Home";
 
-$path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
-
-$routes = [
-  '/' => '/api/index.php',
-  '/help' => '/api/help.php',
-  '/privacy-policy' => '/api/privacy-policy.php',
-  '/roadmap' => '/api/roadmap.php',
-];
-
-if (array_key_exists($path, $routes)) {
-  include __DIR__ . '/' . $routes[$path];
-} else {
-  http_response_code(404);
-  include __DIR__ . '/404.php';
-}
-
 include "includes/head.php";
 ?>
 
