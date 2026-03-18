@@ -9,10 +9,8 @@
     { "src": "/", "dest": "/api/index.php" },
     { "src": "/404", "dest": "/api/404.php" },
     { "src": "/help", "dest": "/api/help.php" },
-    { "src": "/ispyn", "dest": "/api/ispyn.php" },
     { "src": "/privacy-policy", "dest": "/api/privacy-policy.php" },
     { "src": "/roadmap", "dest": "/api/roadmap.php" },
-    { "src": "/whitepaper", "dest": "/api/whitepaper.php" },
     { "src": "/(.*)", "dest": "/api/index.php" }
   ]
 }

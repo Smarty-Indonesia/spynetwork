@@ -28,7 +28,7 @@
                   <a class="nav-link" href="/roadmap">Roadmap</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="/whitepaper">Whitepaper</a>
+                  <a class="nav-link" href="#">Whitepaper</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="/help">Help</a>
