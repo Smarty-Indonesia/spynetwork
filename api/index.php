@@ -1,12 +1,9 @@
 <?php
-
 $pagetitle="Home";
-include "includes/head.php";
-
 $path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
 $routes = [
-  '/' => 'home.php',
+  '/' => 'index.php',
   '/help' => 'help.php',
   '/privacy-policy' => 'privacy-policy.php',
   '/roadmap' => 'roadmap.php',
@@ -19,6 +16,8 @@ if (array_key_exists($path, $routes)) {
   include '404.php';
 }
 
+
+include "includes/head.php";
 ?>
 
   <div class="hero_area">
