@@ -23,15 +23,17 @@ include "includes/head.php";
                     </h1>
                     <p>
                       one of the prestigious projects in 2023, with a real project based on network marketing: I-Spyn
-
+                      <a href="" class="word-wrap" id="smart-contract" >
+                        0x3F76517F7aB600fd4879F0Ee735051Bb9691D5BB
+                      </a>
                     </p>
                     <div class="btn-box">
                       <a href="#" class="btn-1" onclick="CopyToClipboard()">
                         Copy Smart Contract
                       </a>
-                      <a href="" class="word-wrap" id="smart-contract" >
+                      <!-- <a href="" class="word-wrap" id="smart-contract" >
                         0x3F76517F7aB600fd4879F0Ee735051Bb9691D5BB
-                      </a>
+                      </a> -->
                     </div>
                     <script>
                       function CopyToClipboard()
