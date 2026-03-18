@@ -3,7 +3,6 @@ $pagetitle="Privacy Policy";
 include "includes/head.php";
 ?>
 
-<body class="sub_page">
 
   <div class="hero_area">
     <!-- header section strats -->

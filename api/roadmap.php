@@ -3,7 +3,6 @@ $pagetitle="Roadmap";
 $bodyClass = "sub_page";
 ?>
 
-<body class="sub_page">
   <div class="hero_area">
     <!-- header section strats -->
     <?php include "includes/navbar.php" ?>

@@ -2,7 +2,6 @@
 $pagetitle="Home";
 include "includes/head.php";
 ?>
-
   <div class="hero_area">
     <!-- header section strats -->
     <?php include "includes/navbar.php" ?>
