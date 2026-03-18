@@ -46,7 +46,7 @@ include "includes/head.php";
                       <a href="#" class="btn-1" onclick="CopyToClipboard()">
                         Copy Smart Contract
                       </a>
-                      <a class="word-wrap" id="smart-contract" style="font-size: 10px">
+                      <a class="word-wrap" id="smart-contract" style="font-size: 12px">
                         Smart Contract: 0x3F76517F7aB600fd4879F0Ee735051Bb9691D5BB
                       </a>
                     </div>
