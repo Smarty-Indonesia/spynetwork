@@ -1,12 +1,13 @@
 <?php
 $pagetitle="Home";
+
 $path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
 $routes = [
-  '/' => 'index.php',
-  '/help' => 'help.php',
-  '/privacy-policy' => 'privacy-policy.php',
-  '/roadmap' => 'roadmap.php',
+  '/' => '/api/index.php',
+  '/help' => '/api/help.php',
+  '/privacy-policy' => '/api/privacy-policy.php',
+  '/roadmap' => '/api/roadmap.php',
 ];
 
 if (array_key_exists($path, $routes)) {
