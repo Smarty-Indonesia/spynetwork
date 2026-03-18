@@ -41,7 +41,7 @@ include "includes/head.php";
                       one of the prestigious projects in 2023, with a real project based on network marketing: I-Spyn
                     </p>
                     <div class="btn-box">
-                      <a href="#" target="_blank" class="btn-1" onclick="CopyToClipboard()">
+                      <a href="#" class="btn-1" onclick="CopyToClipboard()">
                         Copy Smart Contract
                       </a>
                       <a class="word-wrap" id="smart-contract" style="font-size: 10px">
