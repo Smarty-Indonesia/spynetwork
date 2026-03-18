@@ -3,6 +3,12 @@ $pagetitle="Roadmap";
 $bodyClass = "sub_page";
 ?>
 
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <?php include "includes/navbar.php" ?>
+    <!-- end header section -->
+  </div>
 
   <!-- service section -->
   <section class="service_section layout_padding">
@@ -82,3 +88,9 @@ $bodyClass = "sub_page";
     </div>
   </section>
   <!-- end service section -->
+
+  <?php 
+  include "includes/footer.php" ;
+  include "includes/foot.php" ;
+  
+  ?>
