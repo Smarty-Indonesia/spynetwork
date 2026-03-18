@@ -42,6 +42,7 @@ include "includes/head.php";
                         window.getSelection().addRange(r);
                         document.execCommand('copy');
                         window.getSelection().removeAllRanges();
+                        alert("✅ Smart Contract sudah di copy");
                         }
                     </script>
                   </div>
