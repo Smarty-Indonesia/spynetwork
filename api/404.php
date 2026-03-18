@@ -3,7 +3,7 @@ $pagetitle="404";
 include "includes/head.php";
 ?>
 
-
+<body class="sub_page">
   <div class="hero_area">
     <!-- header section strats -->
     <?php include "includes/navbar.php" ?>
