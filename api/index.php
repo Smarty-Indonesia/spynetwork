@@ -1,6 +1,24 @@
-<?php 
+<?php
+
 $pagetitle="Home";
 include "includes/head.php";
+
+$path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+
+$routes = [
+  '/' => 'home.php',
+  '/help' => 'help.php',
+  '/privacy-policy' => 'privacy-policy.php',
+  '/roadmap' => 'roadmap.php',
+];
+
+if (array_key_exists($path, $routes)) {
+  include $routes[$path];
+} else {
+  http_response_code(404);
+  include '404.php';
+}
+
 ?>
 
   <div class="hero_area">

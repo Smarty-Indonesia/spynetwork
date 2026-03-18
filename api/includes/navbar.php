@@ -1,3 +1,16 @@
+<?php
+$current = $_SERVER['REQUEST_URI'];
+
+if ($current === '/' || $current === '') {
+    $current = '/index.php';
+}
+
+function active($path) {
+    global $current;
+    return strpos($current, $path) !== false ? 'active' : '';
+}
+?>
+
 <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
@@ -17,21 +30,21 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
               <ul class="navbar-nav  ">
-                <li class="nav-item active">
+                <li class="nav-item <?= active('index.php') ?>">
                   <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                 </li>
                 
                 <li class="nav-item">
                   <a class="nav-link" href="https://netfi.spynetwork.io" target="_blank"> NETFI </a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="/roadmap">Roadmap</a>
+                <li class="nav-item <?= active('roadmap') ?>">
+                  <a class="nav-link" href="roadmap">Roadmap</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item <?= active('whitepaper') ?>">
                   <a class="nav-link" href="#">Whitepaper</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="/help">Help</a>
+                <li class="nav-item <?= active('help') ?>">
+                  <a class="nav-link" href="help">Help</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="https://ispyn.vercel.app/" target="_blank">I-Spyn</a>
