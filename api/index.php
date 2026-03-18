@@ -1,32 +1,5 @@
 <?php
 $pagetitle="Home";
-
-
-$path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
-
-$routes = [
-  '/' => 'index.php',
-  '/help' => 'help.php',
-  '/privacy-policy' => 'privacy-policy.php',
-  '/roadmap' => 'roadmap.php'
-];
-
-if (array_key_exists($path, $routes)) {
-
-  $file = __DIR__ . '/' . $routes[$path];
-
-  if (file_exists($file)) {
-    include $file;
-  } else {
-    http_response_code(404);
-    include __DIR__ . '/404.php';
-  }
-
-} else {
-  http_response_code(404);
-  include __DIR__ . '/404.php';
-}
-
 include "includes/head.php";
 ?>
 
