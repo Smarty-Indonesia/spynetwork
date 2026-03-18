@@ -11,12 +11,11 @@ $routes = [
 ];
 
 if (array_key_exists($path, $routes)) {
-  include $routes[$path];
+  include __DIR__ . '/' . $routes[$path];
 } else {
   http_response_code(404);
-  include '404.php';
+  include __DIR__ . '/404.php';
 }
-
 
 include "includes/head.php";
 ?>
