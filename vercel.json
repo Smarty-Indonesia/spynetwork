@@ -6,11 +6,6 @@
   },
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/", "dest": "/api/index.php" },
-    { "src": "/404", "dest": "/api/404.php" },
-    { "src": "/help", "dest": "/api/help.php" },
-    { "src": "/privacy-policy", "dest": "/api/privacy-policy.php" },
-    { "src": "/roadmap", "dest": "/api/roadmap.php" },
     { "src": "/(.*)", "dest": "/api/index.php" }
   ]
 }
