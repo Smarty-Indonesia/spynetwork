@@ -47,5 +47,3 @@
     }
   </style>
 </head>
-
-<body class="sub_page">
