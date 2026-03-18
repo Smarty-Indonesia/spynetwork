@@ -95,7 +95,7 @@
     <section class="container-fluid footer_section">
       <div class="container">
         <p>
-          &copy; 2022-<span id="displayYear"></span> | All Rights Reserved By
+          &copy; 2022-2024 | All Rights Reserved By
           SPYNetwork
         </p>
       </div>
