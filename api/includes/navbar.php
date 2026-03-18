@@ -41,7 +41,7 @@ function active($path) {
                   <a class="nav-link" href="roadmap">Roadmap</a>
                 </li>
                 <li class="nav-item <?= active('whitepaper') ?>">
-                  <a class="nav-link" href="#">Whitepaper</a>
+                  <a class="nav-link" href="whitepaper">Whitepaper</a>
                 </li>
                 <li class="nav-item <?= active('help') ?>">
                   <a class="nav-link" href="help">Help</a>
