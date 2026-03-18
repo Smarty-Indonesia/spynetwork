@@ -15,7 +15,7 @@ function active($path) {
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="/">
-            <img src="assets/images/favicon.png" alt="" width="60px">
+            <img src="/assets/images/favicon.png" alt="" width="60px">
             <span>
               SPYNetwork
             </span>
@@ -53,7 +53,7 @@ function active($path) {
             </div>
             <div class="quote_btn-container ">
               <!-- <a href="">
-                <img src="assets/images/call.png" alt="">
+                <img src="/assets/images/call.png" alt="">
                 <span>
                   Call : + 62 1234567890
                 </span>
