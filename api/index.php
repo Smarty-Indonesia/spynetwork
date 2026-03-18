@@ -45,7 +45,7 @@ include "includes/head.php";
                         Copy Smart Contract
                       </a>
                       <a class="word-wrap" id="smart-contract" style="font-size: 10px">
-                        0x3F76517F7aB600fd4879F0Ee735051Bb9691D5BB
+                        Smart Contract: 0x3F76517F7aB600fd4879F0Ee735051Bb9691D5BB
                       </a>
                     </div>
                     <script>
