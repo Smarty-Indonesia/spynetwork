@@ -29,4 +29,4 @@
   <link rel="icon" type="/assets/images/ico" href="/assets/images/favicon.png">
 </head>
 
-<body>
+<body class="<?= $bodyClass ?? '' ?>">
