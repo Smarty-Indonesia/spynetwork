@@ -62,7 +62,7 @@ include "includes/head.php";
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="../assets/images/a.png" alt="">
+                    <img src="assets/images/a.png" alt="">
                   </div>
                 </div>
               </div>
@@ -91,7 +91,7 @@ include "includes/head.php";
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="../assets/images/b.png" alt="">
+                    <img src="assets/images/b.png" alt="">
                   </div>
                 </div>
               </div>
@@ -121,7 +121,7 @@ include "includes/head.php";
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="../assets/images/slider-img.png" alt="">
+                    <img src="assets/images/slider-img.png" alt="">
                   </div>
                 </div>
               </div>
@@ -148,7 +148,7 @@ include "includes/head.php";
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="../assets/images/about.png" alt="">
+            <img src="assets/images/about.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
@@ -163,7 +163,7 @@ include "includes/head.php";
             </p>
             <a href="https://ispyn.co.id/" target="_blank">
             <div class="img-box" style="background-color: #330854">
-              <img src="../assets/images/ispyn.jpg" alt="">
+              <img src="assets/images/ispyn.jpg" alt="">
             </div>
             </a>
             <!--<a href="https://ispyn.co.id/" target="_blank">-->
@@ -194,7 +194,7 @@ include "includes/head.php";
         <div class="box" style="width: 340px">
             <div class="img-box" style="background-color: #330854; height: 660px; width: 340px" >
               <video width="320" height="640" controls>
-                  <source src="../assets/videos/01.mp4" type="video/mp4">
+                  <source src="assets/videos/01.mp4" type="video/mp4">
                   Your browser does not support the video tag.
               </video>
             </div>
@@ -202,7 +202,7 @@ include "includes/head.php";
         <div class="box" style="width: 340px">
             <div class="img-box" style="background-color: #330854; height: 660px; width: 340px">
               <video width="320" height="640" controls>
-                  <source src="../assets/videos/02.mp4" type="video/mp4">
+                  <source src="assets/videos/02.mp4" type="video/mp4">
                   Your browser does not support the video tag.
               </video>
             </div>
@@ -210,7 +210,7 @@ include "includes/head.php";
         <div class="box" style="width: 340px">
             <div class="img-box" style="background-color: #330854; height: 660px; width: 340px">
               <video width="320" height="640" controls>
-                  <source src="../assets/videos/03.mp4" type="video/mp4">
+                  <source src="assets/videos/03.mp4" type="video/mp4">
                   Your browser does not support the video tag.
               </video>
             </div>
@@ -218,7 +218,7 @@ include "includes/head.php";
         <!--<div class="box">-->
         <!--  <a href="">-->
         <!--    <div class="img-box" style="background-color: #330854">-->
-        <!--      <img src="../assets/images/s-4.png" alt="">-->
+        <!--      <img src="assets/images/s-4.png" alt="">-->
         <!--    </div>-->
         <!--  </a>-->
         <!--  <div class="detail-box">-->
@@ -230,7 +230,7 @@ include "includes/head.php";
         <!--<div class="box">-->
         <!--  <a href="">-->
         <!--    <div class="img-box" style="background-color: #330854">-->
-        <!--      <img src="../assets/images/s-5.png" alt="">-->
+        <!--      <img src="assets/images/s-5.png" alt="">-->
         <!--    </div>-->
         <!--  </a>-->
         <!--  <div class="detail-box">-->
@@ -266,7 +266,7 @@ include "includes/head.php";
             <div class="box b-1">
               <div class="top-box">
                 <div class="icon-box">
-                  <img src="../assets/images/work-i1.png" alt="">
+                  <img src="assets/images/work-i1.png" alt="">
                 </div>
                 <h5>
                   Netfi SPYN
@@ -282,7 +282,7 @@ include "includes/head.php";
             <div class="box b-1">
               <div class="top-box">
                 <div class="icon-box">
-                  <img src="../assets/images/work-i2.png" alt="">
+                  <img src="assets/images/work-i2.png" alt="">
                 </div>
                 <h5>
                   SPYN Wallet
@@ -299,7 +299,7 @@ include "includes/head.php";
         </div>
         <div class="col-md-6">
           <div class="img-box">
-            <img src="../assets/images/level.png" alt="">
+            <img src="assets/images/level.png" alt="">
           </div>
         </div>
       </div>
@@ -330,7 +330,7 @@ include "includes/head.php";
       <div class="box b-1">
         <a href="roadmap">
           <div class="img-box">
-            <img src="../assets/images/2022.png" alt="">
+            <img src="assets/images/2022.png" alt="">
           </div>
         </a>
         <div class="detail-box">
@@ -342,16 +342,16 @@ include "includes/head.php";
           </p>
           <!-- <div class="social_box">
             <a href="">
-              <img src="../assets/images/fb.png" alt="">
+              <img src="assets/images/fb.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/twitter.png" alt="">
+              <img src="assets/images/twitter.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/linkedin.png" alt="">
+              <img src="assets/images/linkedin.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/insta.png" alt="">
+              <img src="assets/images/insta.png" alt="">
             </a>
           </div> -->
         </div>
@@ -359,7 +359,7 @@ include "includes/head.php";
       <div class="box b-2">
         <a href="roadmap">
           <div class="img-box">
-            <img src="../assets/images/2023.png" alt="">
+            <img src="assets/images/2023.png" alt="">
           </div>
         </a>
         <div class="detail-box">
@@ -371,16 +371,16 @@ include "includes/head.php";
           </p>
           <!-- <div class="social_box">
             <a href="">
-              <img src="../assets/images/fb.png" alt="">
+              <img src="assets/images/fb.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/twitter.png" alt="">
+              <img src="assets/images/twitter.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/linkedin.png" alt="">
+              <img src="assets/images/linkedin.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/insta.png" alt="">
+              <img src="assets/images/insta.png" alt="">
             </a>
           </div> -->
         </div>
@@ -388,7 +388,7 @@ include "includes/head.php";
       <div class="box b-3">
         <a href="roadmap">
           <div class="img-box">
-            <img src="../assets/images/2024.png" alt="">
+            <img src="assets/images/2024.png" alt="">
           </div>
         </a>
         <div class="detail-box">
@@ -400,16 +400,16 @@ include "includes/head.php";
           </p>
           <!-- <div class="social_box">
             <a href="">
-              <img src="../assets/images/fb.png" alt="">
+              <img src="assets/images/fb.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/twitter.png" alt="">
+              <img src="assets/images/twitter.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/linkedin.png" alt="">
+              <img src="assets/images/linkedin.png" alt="">
             </a>
             <a href="">
-              <img src="../assets/images/insta.png" alt="">
+              <img src="assets/images/insta.png" alt="">
             </a>
           </div> -->
         </div>
@@ -437,14 +437,14 @@ include "includes/head.php";
           <div class="container">
             <div class="box">
               <div class="img-box">
-                <img src="../assets/images/women-daycream.jpg" alt="">
+                <img src="assets/images/women-daycream.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h6>
                   Women Day Cream
                 </h6>
                 <!-- <p></p> -->
-                <img src="../assets/images/quote.png" alt="">
+                <img src="assets/images/quote.png" alt="">
               </div>
             </div>
           </div>
@@ -453,14 +453,14 @@ include "includes/head.php";
           <div class="container">
             <div class="box">
               <div class="img-box">
-                <img src="../assets/images/body-care.jpg" alt="">
+                <img src="assets/images/body-care.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h6>
                   Body Care Series
                 </h6>
                 <!-- <p></p> -->
-                <img src="../assets/images/quote.png" alt="">
+                <img src="assets/images/quote.png" alt="">
               </div>
             </div>
           </div>
@@ -469,14 +469,14 @@ include "includes/head.php";
           <div class="container">
             <div class="box">
               <div class="img-box">
-                <img src="../assets/images/skincare.jpg" alt="">
+                <img src="assets/images/skincare.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h6>
                   Skincare Series
                 </h6>
                 <!-- <p></p> -->
-                <img src="../assets/images/quote.png" alt="">
+                <img src="assets/images/quote.png" alt="">
               </div>
             </div>
           </div>
@@ -485,14 +485,14 @@ include "includes/head.php";
           <div class="container">
             <div class="box">
               <div class="img-box">
-                <img src="../assets/images/men-facial.jpg" alt="">
+                <img src="assets/images/men-facial.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h6>
                   Men Facial Wash
                 </h6>
                 <!-- <p></p> -->
-                <img src="../assets/images/quote.png" alt="">
+                <img src="assets/images/quote.png" alt="">
               </div>
             </div>
           </div>
@@ -501,14 +501,14 @@ include "includes/head.php";
           <div class="container">
             <div class="box">
               <div class="img-box">
-                <img src="../assets/images/coffee.jpg" alt="">
+                <img src="assets/images/coffee.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h6>
                   Coffee Ginseng
                 </h6>
                 <!-- <p></p> -->
-                <img src="../assets/images/quote.png" alt="">
+                <img src="assets/images/quote.png" alt="">
               </div>
             </div>
           </div>
@@ -517,14 +517,14 @@ include "includes/head.php";
           <div class="container">
             <div class="box">
               <div class="img-box">
-                <img src="../assets/images/berry-drink.jpg" alt="">
+                <img src="assets/images/berry-drink.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h6>
                   Berry Drink
                 </h6>
                 <!-- <p></p> -->
-                <img src="../assets/images/quote.png" alt="">
+                <img src="assets/images/quote.png" alt="">
               </div>
             </div>
           </div>

@@ -51,19 +51,19 @@
               </form> -->
               <div class="social_box">
                 <a href="https://t.me/SPYNETWORKOFFICIAL" target="_blank">
-                  <img src="../../assets/images/info-telegram.png" alt="">
+                  <img src="assets/images/info-telegram.png" alt="">
                 </a>
                 <!-- <a href="">
-                  <img src="../../assets/images/info-fb.png" alt="">
+                  <img src="assets/images/info-fb.png" alt="">
                 </a> -->
                 <a href="https://twitter.com/OfficialSPYNet" target="_blank">
-                  <img src="../../assets/images/info-twitter.png" alt="">
+                  <img src="assets/images/info-twitter.png" alt="">
                 </a>
                 <a href="https://www.linkedin.com/in/yantonwirawan/" target="_blank">
-                  <img src="../../assets/images/info-linkedin.png" alt="">
+                  <img src="assets/images/info-linkedin.png" alt="">
                 </a>
                 <a href="https://www.youtube.com/channel/UCup3mkpvlwwtVtdbPVOPCJA" target="_blank">
-                  <img src="../../assets/images/info-youtube.png" alt="">
+                  <img src="assets/images/info-youtube.png" alt="">
                 </a>
               </div>
               
@@ -76,10 +76,10 @@
               </h4>
               <div class="">
                 <a href="https://play.google.com/store/apps/details?id=io.spynetwork.wallet" target="_blank">
-                  <img src="../../assets/images/google1.png" alt="">
+                  <img src="assets/images/google1.png" alt="">
                 </a>
                 <a href="https://apps.apple.com/id/app/spyn-wallet/id6449093987?l=id" target="_blank">
-                  <img src="../../assets/images/apple2.png" alt="">
+                  <img src="assets/images/apple2.png" alt="">
                 </a>
               </div>
             </div>

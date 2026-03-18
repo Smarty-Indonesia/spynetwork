@@ -28,7 +28,7 @@ include "includes/head.php";
         <div class="box">
           <a href="" target="_blank">
             <div class="img-box">
-              <img src="../assets/images/s-2.png" alt="">
+              <img src="assets/images/s-2.png" alt="">
             </div>
           </a>
           <div class="detail-box">
@@ -44,7 +44,7 @@ include "includes/head.php";
         <div class="box">
           <a href="" target="_blank">
           <div class="img-box">
-            <img src="../assets/images/s-3.png" alt="">
+            <img src="assets/images/s-3.png" alt="">
           </div>
           </a>
           <div class="detail-box">
@@ -59,7 +59,7 @@ include "includes/head.php";
         <div class="box" >
           <a href="https://apps.apple.com/id/app/spyn-wallet/id6449093987?l=id" target="_blank">
             <div class="img-box" style="background-color: #000">
-              <img src="../assets/images/apple.png" alt="">
+              <img src="assets/images/apple.png" alt="">
             </div>
           </a>
           <div class="detail-box">
@@ -74,7 +74,7 @@ include "includes/head.php";
         <div class="box">
           <a href="https://play.google.com/store/apps/details?id=io.spynetwork.wallet" target="_blank">
             <div class="img-box">
-              <img src="../assets/images/google-play.png" alt="">
+              <img src="assets/images/google-play.png" alt="">
             </div>
           </a>
           <div class="detail-box">
@@ -89,7 +89,7 @@ include "includes/head.php";
         <div class="box">
           <a href="https://play.google.com/store/apps/details?id=com.spyn_commerce" target="_blank">
             <div class="img-box">
-              <img src="../assets/images/google-play.png" alt="">
+              <img src="assets/images/google-play.png" alt="">
             </div>
           </a>
           <div class="detail-box">
