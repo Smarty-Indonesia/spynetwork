@@ -140,7 +140,7 @@ include "includes/head.php";
         </div>
         <div class="col-md-6">
           <div class="detail-box">
-            <div class="heading_container">
+            <div class="heading_container" style="padding-top: 40px">
               <h2>
                 What is I-Spyn?
               </h2>
